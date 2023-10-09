@@ -1,0 +1,64 @@
+.header1 {
+    text-align: center;
+    color: #16a8a1;
+    text-shadow: 1px 1px black; 
+}
+
+.header2 {
+    text-align: center;
+    color: #16a8a1;
+    border-bottom-style: solid;
+    border-color: black;
+    border-width: 2px;
+    text-shadow: 1px 1px black; 
+
+}
+
+body {
+    background: linear-gradient(45deg, rgb(41, 156, 89), #1ca4e2, #6e14b8);
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+
+}
+
+.ball, .penie, .volley {
+    width: 900px;
+    height: 900px;
+    background-image: linear-gradient(45deg, rgba(55, 168, 159, 0.952), rgb(51, 206, 133));
+    padding: 5px;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.871);
+    font-family: sans-serif;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.jorik {
+    height: 500px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+h3, h6 {
+    text-align: center;
+}
+
+.study, .valik {
+    height: 300px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section:hover {
+    border-radius: 24px;
+}
